@@ -32,5 +32,5 @@ Hi there, thanks for stopping by, I am **Chase Allman-Knieper**.
 <p align="center">
 <!-- <a href="https://www.adityavsingh.com/"><img alt=" PERSONAL Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
 <a href="https://www.linkedin.com/in/chase-ak/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Chase%20AK-blue"></a>
-<a href="chaseknieper@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-chaseknieper@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:chaseknieper@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-chaseknieper@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
