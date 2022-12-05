@@ -21,8 +21,9 @@ Hi there, thanks for stopping by, I am **Chase Allman-Knieper**.
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  123124314 ![Materialize](https://img.shields.io/badge/-Materialize-333333?style=flat&logo=materialize)
 
-![achasek's github stats](https://github-readme-stats.vercel.app/api?username=achasekZ&hide=contribs,prs&count_private=true&show_icons=true)
+![achasek's github stats](https://github-readme-stats.vercel.app/api?username=achasek&hide=contribs,prs&count_private=true&show_icons=true)
 
 <a href="https://github.com/iCharlesZ">
   <img src="https://img.shields.io/github/followers/iCharlesZ">
